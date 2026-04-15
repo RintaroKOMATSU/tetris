@@ -1,0 +1,1 @@
+int update_highscore(int score);
